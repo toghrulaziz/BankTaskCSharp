@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Bank\BankTaskCSharp\BankTaskCSharp\bin\Debug\net6.0\BankTaskCSharp.exe
+C:\Users\User\Desktop\Bank\BankTaskCSharp\BankTaskCSharp\bin\Debug\net6.0\BankTaskCSharp.deps.json
+C:\Users\User\Desktop\Bank\BankTaskCSharp\BankTaskCSharp\bin\Debug\net6.0\BankTaskCSharp.runtimeconfig.json
+C:\Users\User\Desktop\Bank\BankTaskCSharp\BankTaskCSharp\bin\Debug\net6.0\BankTaskCSharp.dll
+C:\Users\User\Desktop\Bank\BankTaskCSharp\BankTaskCSharp\bin\Debug\net6.0\BankTaskCSharp.pdb
+C:\Users\User\Desktop\Bank\BankTaskCSharp\BankTaskCSharp\obj\Debug\net6.0\BankTaskCSharp.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Bank\BankTaskCSharp\BankTaskCSharp\obj\Debug\net6.0\BankTaskCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Bank\BankTaskCSharp\BankTaskCSharp\obj\Debug\net6.0\BankTaskCSharp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Bank\BankTaskCSharp\BankTaskCSharp\obj\Debug\net6.0\BankTaskCSharp.AssemblyInfo.cs
+C:\Users\User\Desktop\Bank\BankTaskCSharp\BankTaskCSharp\obj\Debug\net6.0\BankTaskCSharp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Bank\BankTaskCSharp\BankTaskCSharp\obj\Debug\net6.0\BankTaskCSharp.dll
+C:\Users\User\Desktop\Bank\BankTaskCSharp\BankTaskCSharp\obj\Debug\net6.0\refint\BankTaskCSharp.dll
+C:\Users\User\Desktop\Bank\BankTaskCSharp\BankTaskCSharp\obj\Debug\net6.0\BankTaskCSharp.pdb
+C:\Users\User\Desktop\Bank\BankTaskCSharp\BankTaskCSharp\obj\Debug\net6.0\BankTaskCSharp.genruntimeconfig.cache
+C:\Users\User\Desktop\Bank\BankTaskCSharp\BankTaskCSharp\obj\Debug\net6.0\ref\BankTaskCSharp.dll
